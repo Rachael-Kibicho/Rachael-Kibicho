@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h2 align="left">I'm Rachael and I am a junior software engineer and data analyst.</h2>
+<h2 align="left">I'm Rachael and I am a data analyst.</h2>
 
 ###
 
